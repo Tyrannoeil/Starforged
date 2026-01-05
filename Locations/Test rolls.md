@@ -8,6 +8,8 @@ oracle-group name="Planet: [[Vale]]" {
     oracle name="[Planet Oracles \/ Vital World \/ Observed From Space](datasworn:oracle_rollable:starforged\/planet\/vital\/observed_from_space)" result="High gravity" roll=46
     oracle name="[Settlements](datasworn:oracle_rollable:starforged\/planet\/vital\/settlements\/outlands)" result="Settlements in conflict" roll=96
 }
+oracle name="[Planet Oracles \/ Vital World \/ Settlements \/ Outlands](datasworn:oracle_rollable:starforged\/planet\/vital\/settlements\/outlands)" result="Planetside settlement" roll=72
+
 ```
 
 
