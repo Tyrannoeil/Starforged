@@ -20,6 +20,12 @@ Discoveries_XPEarned: 0
 iron-vault-kind: character
 
 ---
+```iron-vault-mechanics
+oracle-group name="Location Theme Oracles: [[sector 1|New Location Theme Oracles]]" {
+    oracle name="[Location Theme Oracles \/ Theme Type](datasworn:oracle_rollable:starforged\/location_theme\/type)" result="[Inhabited](datasworn:oracle_collection:starforged\/location_theme\/inhabited)" roll=59
+}
+```
+
 
 
 
