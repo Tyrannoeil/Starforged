@@ -11,4 +11,4 @@
 | Initial Contact     | Neutral / automated                                                                                               |
 | Authority           | None / lawless                                                                                                    |
 | Settlement Projects | Medical, Evacuation                                                                                               |
-| Settlement Trouble  | Changing environment, Overdue delivery                                                                            |
+

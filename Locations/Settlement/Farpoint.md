@@ -10,4 +10,4 @@
 | Initial Contact     | Uncooperative                         |
 | Authority           | Oppressive                            |
 | Settlement Projects | Spirituality, Festival                |
-| Settlement Trouble  | Social strife, Preyed upon by raiders |
+
