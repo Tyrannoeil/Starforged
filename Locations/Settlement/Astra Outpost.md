@@ -9,4 +9,4 @@
 | Initial Contact |  Welcoming  |
 | Authority |  Corrupt  |
 | Settlement Projects |  Subsistence, Archeology  |
-| Settlement Trouble |  Plagued by sickness, Caught in the crossfire  |
+
