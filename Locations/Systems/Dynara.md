@@ -1,0 +1,1 @@
+![[Dynara.png]]

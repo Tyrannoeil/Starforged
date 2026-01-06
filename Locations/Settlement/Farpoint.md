@@ -1,3 +1,5 @@
+![[Farpoint.png]]
+
 | Name                | Farpoint                              |
 | ------------------- | ------------------------------------- |
 | Region              | Terminus                              |
