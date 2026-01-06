@@ -9,4 +9,3 @@
 | Initial Contact     | In battle                                                           |
 | Authority           | Unyielding                                                          |
 | Settlement Projects | Command, Raiding                                                    |
-| Settlement Trouble  | Dangerous discovery, Social strife                                  |
